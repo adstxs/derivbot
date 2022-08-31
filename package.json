@@ -1,0 +1,30 @@
+{
+  "name": "deriv-auto-traderbot",
+  "version": "1.0.0",
+  "description": "This is signal for Rise-Fall or Higher Lowerin Deriv",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riky Fahri Hasibuan <riky.hasibuan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@chilkat/ck-node11-win64": "^9.50.90",
+    "@deriv/deriv-api": "^1.0.10",
+    "axios": "^0.27.2",
+    "binary-bot": "^8.5.12",
+    "cli-progress": "^3.8.2",
+    "clui": "^0.3.6",
+    "colors": "^1.4.0",
+    "configstore": "^5.0.1",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "main.js": "^0.0.1",
+    "minimist": "^1.2.5",
+    "node-fetch": "^3.2.10",
+    "node-localstorage": "^2.1.6",
+    "telegraf": "^4.9.1",
+    "websocket": "^1.0.31",
+    "ws": "^7.3.0"
+  }
+}

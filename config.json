@@ -1,0 +1,12 @@
+{
+"token"			: "5dGuhdU0AwVbQlO",
+"stake" 		: "0.35",
+"stoploss" 		: "100",
+"marti" 		: "2.2",
+"targetprofit"	: "10",
+"virtualloss"   : "2",
+"market" 		: "R_100",
+"tick" 			: "5",
+"copytrading"	: true,
+"language"		: "ID"
+}
