@@ -9,9 +9,9 @@ Ensure that your environment contains the following packages.
  ```
  ## Installation
 
-### 1. Setup the project on local machine
+### 1. Setup the project on termux or your computer
 
-In order to work with Binary-Bot application, you must create your own version of this project. Please fork the project - https://github.com/gunawanherudev/derivautotrade.git to your git account.
+Please fork the project - https://github.com/gunawanherudev/derivautotrade.git to your git account.
 
 You will need to perform the following on your development machine:
 1. Change the current working directory to the location where you want the cloned directory.
@@ -21,3 +21,6 @@ You will need to perform the following on your development machine:
 5. change your setting and language.
 6. Run ```node bot.js```
 7. ctrl + c to stop bot.
+
+
+and Happy Profits..
