@@ -8,9 +8,9 @@ Ensure that your environment contains the following packages.
 apt update && apt upgrade 
 apt install nodejs
 git clone https://github.com/adstxs/derivautotrade.git
+cd derivautotrade
+sh start.sh
  ```
- ```cd derivautotrade```
- ```sh start.sh```
  ## Installation
 
 ### 1. Setup the project on termux or your computer
