@@ -21,7 +21,7 @@ You will need to perform the following on your development machine:
 3. Run ```cd derivautotrade```
 4. input your token -  ```nano config.json```.
 5. change your setting and language.
-6. Run ```node bot.js``` or ```sh start.sh```
+6. Run ```sh start.sh```
 7. ctrl + c to stop bot.
 
 
