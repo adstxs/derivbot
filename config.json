@@ -1,12 +1,12 @@
 {
 "token"			: "XXXXXXXXXXXX",
 "stake" 		: "0.35",
-"stoploss" 		: "100",
+"stoploss" 	: "100",
 "marti" 		: "2.2",
 "targetprofit"	: "1",
 "virtualloss"   : "2",
 "market" 		: "R_100",
 "tick" 			: "5",
 "copytrading"	: true,
-"language"		: "ID"
+"language"	: "ID"
 }
