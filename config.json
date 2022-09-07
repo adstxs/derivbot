@@ -6,7 +6,7 @@
 "targetprofit" : "1",
 "virtualloss" : "2",
 "market" : "R_100",
-"tick" : "5",
+"tick" : "3",
 "copytrading"	: true,
 "language" : "ID"
 }
