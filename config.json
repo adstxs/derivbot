@@ -3,7 +3,7 @@
 "stake" : "0.35",
 "stoploss" : "100",
 "marti" : "2.2",
-"targetprofit" : "1",
+"targetprofit" : "0.3",
 "virtualloss" : "2",
 "market" : "R_100",
 "tick" : "3",
