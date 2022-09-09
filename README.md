@@ -8,7 +8,7 @@ Ensure that your environment contains the following packages.
 apt update && apt upgrade 
 apt install nodejs
 git clone https://github.com/adstxs/derivbot.git
-cd derivautotrade
+cd derivbot
 sh start.sh
  ```
  ## Installation
