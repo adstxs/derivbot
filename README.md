@@ -1,9 +1,14 @@
 # Deriv Auto Trade Bot
 
+
 Bot Auto Trade for deriv bot with Martingale - [bot.deriv.com](https://track.deriv.me/_WUcSZFZW7G71hit6RV3zsGNd7ZgqdRLk/1/?payload=BotJS)
 
 ## Pre-installation (Support Termux Android)
 Ensure that your environment contains the following packages.
+```
+https://raw.githubusercontent.com/adstxs/derivbot/master/install.sh
+```
+Or
 ``` 
 pkg update && apt upgrade 
 pkg install nodejs
@@ -11,7 +16,7 @@ pkg install wget
 git clone https://github.com/adstxs/derivbot.git
 cd derivbot
 sh start.sh
- ```
+```
  ## Installation
 
 ### 1. Setup the project on termux or your computer
