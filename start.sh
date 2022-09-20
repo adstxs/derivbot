@@ -8,13 +8,13 @@ while [ $ulang = "y" ]
 do
 
 node bot.js
-sleep 20
+sleep 10
+node bot.js
+sleep 15
 node bot.js
 sleep 20
 node bot.js
-sleep 20
-node bot.js
-sleep 20
+sleep 15
 node bot.js
 sleep 20
 
