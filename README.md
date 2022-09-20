@@ -12,6 +12,7 @@ Or
 ``` 
 pkg update && apt upgrade 
 pkg install nodejs
+pkg install git
 pkg install wget
 git clone https://github.com/adstxs/derivbot.git
 cd derivbot
