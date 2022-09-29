@@ -1,7 +1,3 @@
-rm *js
-wget -q https://raw.githubusercontent.com/adstxs/deriv/main/bot.js 
-nano config.json
-
 ulang="y"
 
 while [ $ulang = "y" ]
