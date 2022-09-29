@@ -2,7 +2,7 @@
 "token"        	: "XXXX",
 "stake" 		    : "1",
 "stoploss" 	    : "10000000",
-"marti" 		    : "2.2",
+"marti" 		    : "1",
 "targetprofit"	: "1000000",
 "virtualloss"   : "5",
 "market" 		    : "R_100",
