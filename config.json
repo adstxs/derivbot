@@ -1,14 +1,14 @@
 {
-"token"			: "XXXX",
-"stake" 		: "1",
-"stoploss" 		: "10000000",
-"marti" 		: "2.2",
+"token"         : "XXXX",
+"stake" 		    : "1",
+"stoploss" 	    : "10000000",
+"marti" 		    : "2.2",
 "targetprofit"	: "1000000",
 "virtualloss"   : "5",
-"market" 		: "R_100",
-"tick" 			: "1",
-"underover"		: true,
-"risefall"		: true,
-"copytrading"	: false,
-"language"		: "ID"
+"market" 		    : "R_100",
+"tick" 			    : "1",
+"underover"		  : true,
+"risefall"		  : true,
+"copytrading"	  : false,
+"language"		  : "ID"
 }
